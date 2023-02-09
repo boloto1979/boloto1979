@@ -7,7 +7,6 @@
 )](https://criarmeulink.com.br/u/1675193138)
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg
 
 ![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical)
 

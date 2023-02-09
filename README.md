@@ -8,7 +8,6 @@
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
 [![Reddit](https://aleen42.github.io/badges/src/reddit.svg
-)](https://www.reddit.com/u/Syllabub_Character?utm_medium=android_app&utm_source=share)
 
 ![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical)
 

@@ -7,7 +7,7 @@
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
 
-![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979)
+![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>

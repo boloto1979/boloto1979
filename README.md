@@ -9,7 +9,7 @@
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
 
-<img width="45%" align="right" alt="Github" src="file:///C:/Users/Pedro/Pictures/GIF-Hacker.gif" />
+file:///C:/Users/Pedro/Pictures/GIF-Hacker.gif"
 
 
 ![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent)

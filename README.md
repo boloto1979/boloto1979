@@ -11,7 +11,7 @@
 
 ![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent)
 
-### Tecnologias que uso no meu dia
+## Languages and Tools:
 <div style="display: inline_block"><br/>
   <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alig="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,4 +26,4 @@
 <img alig="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div><br/>
 
-Cursando uma graduação em Analise e Desenvolvimento de Sistemas (ADS), estudante de Segurança da Informação.
+Studying Systems Analysis and Development

@@ -12,6 +12,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent">
   <img height="200em" src="https://media.list.ly/production/753873/3612815/3612815-just-bang-on-the-keyword_600px.gif?ver=3410683038">
 </div>
+
+&nbsp;
+
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
   <img aligh="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

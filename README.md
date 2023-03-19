@@ -9,7 +9,7 @@
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
 <div>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent">
   <img height="300em" src="https://media.list.ly/production/753873/3612815/3612815-just-bang-on-the-keyword_600px.gif?ver=3410683038">
 </div>
 ## Languages and Tools:

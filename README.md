@@ -1,7 +1,6 @@
 ## Hi, I'm Pedro😊.
 
 &nbsp;
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )](https://t.me/boloto1979)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -14,7 +13,6 @@
 </div>
 
 &nbsp;
-
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
   <img aligh="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

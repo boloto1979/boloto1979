@@ -8,9 +8,10 @@
 )](https://criarmeulink.com.br/u/1675193138)
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
 )](www.linkedin.com/in/pedro-lima-5968b81b5)
-
-![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent)
-
+<div>
+  ![Boloto GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent)
+  <img src="https://media.list.ly/production/753873/3612815/3612815-just-bang-on-the-keyword_600px.gif?ver=3410683038">
+</div>
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
   <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

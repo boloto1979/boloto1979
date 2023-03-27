@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://criarmeulink.com.br/u/1675193138)
 [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-)](www.linkedin.com/in/pedro-lima3233)
+)](https://www.linkedin.com/in/pedro-lima3233/)
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical">
   <img height="200em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">

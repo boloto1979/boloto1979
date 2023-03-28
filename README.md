@@ -9,10 +9,7 @@
 )](https://www.linkedin.com/in/pedro-lima3233/)
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical">
-  <img class="text-copy" height="200em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
-</div>
-<style>
-  .text-copy {
+  <img class="text-copy" style=".text-copy {
     fill: none;
     stroke: white;
     stroke-dasharray: 6% 29%;
@@ -44,9 +41,8 @@
 .text-copy:nth-child(5){
 	stroke: #ebebf0;
 	animation-delay: -5s;
-}
-  <style>
-
+}" height="200em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
+</div>
 &nbsp;
 
 ## Languages and Tools:

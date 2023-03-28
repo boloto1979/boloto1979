@@ -9,8 +9,43 @@
 )](https://www.linkedin.com/in/pedro-lima3233/)
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical">
-  <img height="200em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
+  <img class="text-copy" height="200em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
 </div>
+<style>
+  .text-copy {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.text-copy:nth-child(1){
+	stroke: #a5b4c4;
+	animation-delay: -1;
+}
+
+.text-copy:nth-child(2){
+	stroke: #bfc1df;
+	animation-delay: -2s;
+}
+
+.text-copy:nth-child(3){
+	stroke: #cdcedb;
+	animation-delay: -3s;
+}
+
+.text-copy:nth-child(4){
+	stroke: #b7b8c5;
+	animation-delay: -4s;
+}
+
+.text-copy:nth-child(5){
+	stroke: #ebebf0;
+	animation-delay: -5s;
+}
+  <style>
 
 &nbsp;
 

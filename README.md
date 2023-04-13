@@ -28,6 +28,6 @@
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <i aligh="center" height="50" width="50" class="devicon-nextjs-plain-wordmark"></i>
- 
+  <img aligh="center" height="50" width="50" src="https://static-00.iconduck.com/assets.00/nextjs-icon-256x256-7qkwzz24.png" />
+
 </div><br/>

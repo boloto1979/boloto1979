@@ -1,16 +1,16 @@
 <h2 align="center">Hi, I'm Pedro😊<br>Full Stack Developer</h2>
 
 &nbsp;
-<div style="text-align:center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/boloto1979)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://criarmeulink.com.br/u/1675193138)
-[![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-)](https://www.linkedin.com/in/pedro-lima3233/)
- 
+<div style="text-align:center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/boloto1979)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1675193138)
+  [![Linkdin](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/pedro-lima3233/)
+  
 </div>
+
+
 <br>
  ## Languages and Tools: ##
 <div style="display: inline_block"><br/>

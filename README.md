@@ -1,4 +1,8 @@
 <h2 align="center">Hi, I'm Pedro😊<br>Full Stack Developer</h2>
+<p align="center">
+<a href="https://github.com/boloto1979">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
 
 &nbsp;
     <div align="center">

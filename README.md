@@ -25,7 +25,7 @@
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div><br/>
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent">
   <img height="180em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
 </div>

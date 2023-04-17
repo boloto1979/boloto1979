@@ -8,7 +8,7 @@
     </div>
 
  ## Languages and Tools: ##
-<div aligh="center"><br/>
+<div aligh="center">
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -28,5 +28,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=transparent">
   <img height="180em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
+  <img height="180em" src=" https://giphy.com/gifs/pixel-pokemon-8bit-iJsjsm6dhNPiQBvztq/tile">
 </div>
 &nbsp;

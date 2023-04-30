@@ -27,9 +27,11 @@
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div><br/>
-<div position="relative">
-      <img position="absolute" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img position="absolute" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/>
+<div   display="flex";
+justify-content="center";
+  align-items="center";>
+      <img  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img  height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/>
     
 </div><br/>
 <div align="center">

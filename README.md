@@ -29,10 +29,6 @@
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br/>
- <div align="center">
-      <img aligh="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img aligh="center" height="60" width="60" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/>
- </div><br/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical">
   <img height="180em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">

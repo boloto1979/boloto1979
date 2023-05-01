@@ -5,7 +5,6 @@
       <a href="https://t.me/boloto1979"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a href="https://criarmeulink.com.br/u/1675193138"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/pedro-lima3233/"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-    <img height="180em" src="https://media3.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47n1momrvnvwruweqff79l5m83y5d7wucs6pqwj9in&rid=giphy.gif&ct=s">
     <br/>
     <img src="https://tryhackme-badges.s3.amazonaws.com/pedro.lima1979.png?0"  alt="TryHackMe">
 </div>

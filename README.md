@@ -31,7 +31,7 @@ I'm driven by a passion for full stack development, constantly looking to improv
 
 ### Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=boloto1979">
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=boloto1979">
 
 

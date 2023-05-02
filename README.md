@@ -4,7 +4,7 @@
 
 As an experienced full-stack developer and cybersecurity student,<br/>
 my goal is always to create creative and efficient solutions to customer needs.<br/>
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+
 My extensive experience in several areas of software development <br/>
 makes me a versatile professional capable of dealing with different challenges.<br/>
 

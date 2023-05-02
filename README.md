@@ -6,6 +6,6 @@ I'm driven by a passion for full stack development, constantly looking to improv
 
 <p align="left">
     <a href="https://criarmeulink.com.br/u/1675193138">
-         <img alt="Email" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a> 
 </p>
 

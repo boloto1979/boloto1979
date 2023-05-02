@@ -34,6 +34,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=radical">
   <img height="180em" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47htabcfcqhinj1srtwtq11r15jqntfv1dwm8skh33&rid=giphy.gif&ct=g">
   <img height="180em" src="https://media3.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47n1momrvnvwruweqff79l5m83y5d7wucs6pqwj9in&rid=giphy.gif&ct=s">
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=boloto1979"> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=boloto1979">
 </div>
 &nbsp;

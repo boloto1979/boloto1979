@@ -6,7 +6,7 @@ I'm driven by a passion for full stack development, constantly looking to improv
 <p align="left">
     <a href="https://t.me/boloto1979"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a href="https://criarmeulink.com.br/u/1675193138"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://www.linkedin.com/in/pedro-lima3233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>
+    <a href="https://www.linkedin.com/in/pedro-lima3233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---

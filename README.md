@@ -6,7 +6,7 @@
       <a href="https://criarmeulink.com.br/u/1675193138"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://www.linkedin.com/in/pedro-lima3233/"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
     <br/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pedro.lima1979.png?0"  alt="TryHackMe">
+    <script src="https://tryhackme.com/badge/1835317"></script>
 </div>
 
  ## Languages and Tools: ##

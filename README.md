@@ -8,4 +8,6 @@ I'm driven by a passion for full stack development, constantly looking to improv
     <a href="https://t.me/boloto1979"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
       <a href="https://criarmeulink.com.br/u/1675193138"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
+---
+### Languages and Tools
 

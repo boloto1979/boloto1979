@@ -29,5 +29,8 @@ I'm driven by a passion for full stack development, constantly looking to improv
 <img aligh="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img aligh="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 #
 
+### Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=gruvbox)
 
 

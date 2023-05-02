@@ -3,8 +3,8 @@
 **`(Developer Full Stack/ Cybersecurity)`**
 
 As an experienced full-stack developer and cybersecurity student,<br/>
-my goal is always to create creative and efficient solutions to customer needs.<br/>
-                                                                    <img position="relative" left="50px" height="180em" src="https://media3.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47n1momrvnvwruweqff79l5m83y5d7wucs6pqwj9in&rid=giphy.gif&ct=s"><br/>
+my goal is always to create creative and efficient solutions to customer needs.<br/> <img position="relative" left="50px" height="180em" src="https://media3.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif?cid=ecf05e47n1momrvnvwruweqff79l5m83y5d7wucs6pqwj9in&rid=giphy.gif&ct=s"><br/>
+
 My extensive experience in several areas of software development <br/>
 makes me a versatile professional capable of dealing with different challenges.<br/>
 

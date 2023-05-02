@@ -1,6 +1,7 @@
 # Hi, I'm Pedro 😊
 
-**`(Developer Full Stack/ Cybersecurity)`**<br/>
+**`(Developer Full Stack/ Cybersecurity)`**
+
 As an experienced full-stack developer and cybersecurity student,<br/>
 my goal is always to create creative and efficient solutions to customer needs.<br/>
 My extensive experience in several areas of software development <br/>

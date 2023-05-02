@@ -1,5 +1,4 @@
 # Hi, I'm Pedro 😊
-
 **`(Developer Full Stack/ Cybersecurity)`**
 
 ---

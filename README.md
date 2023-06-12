@@ -1,4 +1,4 @@
-# Hi, I'm Pedro 😊
+<!-- # Hi, I'm Pedro 😊
 **`(Developer Full Stack / Cybersecurity)`**
 
 I'm driven by a passion for full stack development, constantly looking to improve my skills both front-end and back-end. I have extensive experience in creating interactive and responsive web applications and programs. In addition, I am passionate about exploring digital security and implementing best practices to ensure the protection of project data and information. I possess a deep understanding of cybersecurity concepts and techniques, and I am always up to date with the latest trends and threats in the field. This combination of skills allows me to create robust and secure solutions that meet customer needs.
@@ -46,3 +46,4 @@ I'm driven by a passion for full stack development, constantly looking to improv
 My curiosity led me to explore other Linux systems such as Ubuntu, Debian, the renowned Kali Linux, Mint, Manjaro, Zorin, Slackware, among others. Each of these systems has unique characteristics and features, which has allowed me to further expand my knowledge and understanding of the Linux world.
 
 I am currently attending college and continue to dedicate myself intensely to cybersecurity studies. I recognize the importance of keeping up to date with trends and advances in this ever-evolving field. Every day, I dedicate time and effort to improve my learning, whether through courses, practical projects or research. My commitment is to expand my knowledge and skills, aiming to become a qualified professional capable of facing the complex challenges of cybersecurity.
+ -->

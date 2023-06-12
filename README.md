@@ -46,4 +46,4 @@ I'm driven by a passion for full stack development, constantly looking to improv
 My curiosity led me to explore other Linux systems such as Ubuntu, Debian, the renowned Kali Linux, Mint, Manjaro, Zorin, Slackware, among others. Each of these systems has unique characteristics and features, which has allowed me to further expand my knowledge and understanding of the Linux world.
 
 I am currently attending college and continue to dedicate myself intensely to cybersecurity studies. I recognize the importance of keeping up to date with trends and advances in this ever-evolving field. Every day, I dedicate time and effort to improve my learning, whether through courses, practical projects or research. My commitment is to expand my knowledge and skills, aiming to become a qualified professional capable of facing the complex challenges of cybersecurity.
- --> -->
+ -->

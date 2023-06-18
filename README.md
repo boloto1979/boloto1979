@@ -31,12 +31,6 @@ I'm driven by a passion for full stack development, constantly looking to improv
 <img aligh="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 
 #
-
-### Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=boloto1979&show_icons=true&theme=github_dark)
-<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=boloto1979">
-
 <details>
  <summary><h3>My Journey👨‍💻</h3></summary>
     I started studying programming at the age of 15, when I got my first computer with the Linux operating system. Back then, I was completely new to Linux and didn't know how to use it. However, over time, I improved my skills and acquired ever-increasing knowledge in this area. Besides programming, I'm also interested in hacking.

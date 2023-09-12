@@ -6,9 +6,6 @@
   
   ![GIF](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
 </div>
-</br>
-
-
 <!-- Tabela 1 -->
 <table align="center">
   <tr>

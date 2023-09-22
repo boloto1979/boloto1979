@@ -105,8 +105,8 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://miro.medium.com/v2/resize:fit:954/1*ssgbiwYHOi9gIXt9pGCJYw.png" width="45" height="45" alt="PostgreSQL" />
-      <br>OpenVas
+      <img src="https://www.svgrepo.com/show/331601/tenable.svg" width="45" height="45" />
+      <br>Nessus
     </td>
   </tr>
 </table>

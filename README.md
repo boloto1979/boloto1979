@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" alt="icon" width="45" height="45" />
-      <br>OWASP
+      <br>ZAP
     </td>
   </tr>
   <tr>

@@ -105,8 +105,8 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/331601/tenable.svg" width="45" height="45" />
-      <br>Nessus
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png" width="45" height="45" />
+      <br>Ghidra
     </td>
   </tr>
 </table>

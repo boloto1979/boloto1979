@@ -2,9 +2,6 @@
 <div align="center">
   
   **`(Developer / Cybersecurity)`**
-</br>  
-  ![GIF](https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif)
-</div>
 <!-- Tabela 1 -->
 <table align="center">
   <tr>

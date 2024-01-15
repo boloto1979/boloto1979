@@ -107,3 +107,5 @@
     </td>
   </tr>
 </table>
+
+[![Pedro Lima profile views](https://u8views.com/api/v1/github/profiles/34582475/views/day-week-month-total-count.svg)](https://u8views.com/github/boloto1979)

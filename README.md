@@ -48,8 +48,8 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
+      <img src="https://www.logigroup.com/images/modules/vue.gif" width="45" height="45" alt="vue" />
+      <br>Vue.js
     </td>
     <td align="center" width="90">
       <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1040A14PA2252PT32X45Y15D1048988355W3400H3400CxF36916%3AxFFFFFF/views/1,width=650,height=650,appearanceId=14,backgroundColor=ffffff/burp-suite-icon.jpg" alt="icon" width="45" height="45" />

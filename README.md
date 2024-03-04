@@ -108,4 +108,5 @@
   </tr>
 </table>
 
-[![Pedro Lima profile views](https://u8views.com/api/v1/github/profiles/34582475/views/day-week-month-total-count.svg)](https://u8views.com/github/boloto1979)
+[![Pedro Lima profile views](https://u8views.com/api/v1/github/profiles/34582475/views/day-week-month-total-count.svg)](https://u8views.com/github/boloto1979)</br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pedro.lima1979.png" alt="TryHackMe">

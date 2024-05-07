@@ -107,8 +107,8 @@
     </td>
   </tr>
 </table>
-
+<!--
 [![Pedro Lima profile views](https://u8views.com/api/v1/github/profiles/34582475/views/day-week-month-total-count.svg)](https://u8views.com/github/boloto1979)</br></br>
 <a href="https://tryhackme.com/p/pedro.lima1979">
   <img src="https://tryhackme-badges.s3.amazonaws.com/pedro.lima1979.png" alt="TryHackMe">
-</a>
+</a>-->

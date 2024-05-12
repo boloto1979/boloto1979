@@ -5,6 +5,10 @@ I am an experienced full stack developer with a strong focus on back-end and cyb
 ### 🔎 Around the internet...
 - [Finding Balance: Personal Development and Productivity Methodologies](https://www.linkedin.com/pulse/encontrando-o-equil%2525C3%2525ADbrio-metodologias-de-e-pessoal-pedro-lima-ruo6f/?trackingId=oSMrVCCnTF6PqGbKtHJ1iw%3D%3D)
 - [My Experience November/20/23](https://boloto1979.github.io/post/my-experience1)
+### Contact 📫
+- [Linkedin](https://www.linkedin.com/in/pedro-lima3233/)
+- [Instagram](https://www.instagram.com/lima_pe0/)
+- [Blog](https://boloto1979.github.io/)
 <table align="">
   <tr>
     <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" /></td>

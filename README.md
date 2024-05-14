@@ -4,6 +4,7 @@ I am an experienced full stack developer with a strong focus on back-end and cyb
 
 ### 🔎 Around the internet...
 - [Finding Balance: Personal Development and Productivity Methodologies](https://www.linkedin.com/pulse/encontrando-o-equil%2525C3%2525ADbrio-metodologias-de-e-pessoal-pedro-lima-ruo6f/?trackingId=oSMrVCCnTF6PqGbKtHJ1iw%3D%3D)
+- [Why “Clean Code” Practices Can Be Harmful](https://www.linkedin.com/pulse/por-que-pr%2525C3%2525A1ticas-de-c%2525C3%2525B3digo-limpo-podem-ser-pedro-lima-xtmaf/?trackingId=RZYOvg9tTlW6nbZHP0dX3Q%3D%3D)
 - [My Experience November/20/23](https://boloto1979.github.io/post/my-experience1)
 <table align="">
   <tr>

@@ -3,6 +3,7 @@
 I am an experienced full stack developer with a strong focus on back-end and cybersecurity. While I also engage in front-end tasks, my primary emphasis is on developing secure and robust solutions. I am an active critic in the development field, engaged in the community through creating relevant articles and discussions. Furthermore, I am passionate about innovation and contributing to open projects that enrich the developer community.
 
 ### 🔎 Around the internet...
+- [AI and Development: The Future of Developers](https://www.linkedin.com/pulse/ia-e-desenvolvimento-o-futuro-dos-desenvolvedores-pedro-lima-vc7jf/?trackingId=vlenp%2B6bSzCUnttpJgf38Q%3D%3D)
 - [Finding Balance: Personal Development and Productivity Methodologies](https://www.linkedin.com/pulse/encontrando-o-equil%2525C3%2525ADbrio-metodologias-de-e-pessoal-pedro-lima-ruo6f/?trackingId=oSMrVCCnTF6PqGbKtHJ1iw%3D%3D)
 - [Why “Clean Code” Practices Can Be Harmful](https://www.linkedin.com/pulse/por-que-pr%2525C3%2525A1ticas-de-c%2525C3%2525B3digo-limpo-podem-ser-pedro-lima-xtmaf/?trackingId=RZYOvg9tTlW6nbZHP0dX3Q%3D%3D)
 - [My Experience November/20/23](https://boloto1979.github.io/post/my-experience1)

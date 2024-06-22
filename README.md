@@ -9,7 +9,7 @@ I am an experienced full stack developer with a strong focus on back-end and cyb
 - [Why “Clean Code” Practices Can Be Harmful](https://www.linkedin.com/pulse/por-que-pr%2525C3%2525A1ticas-de-c%2525C3%2525B3digo-limpo-podem-ser-pedro-lima-xtmaf/?trackingId=RZYOvg9tTlW6nbZHP0dX3Q%3D%3D)
 <table align="">
   <tr>
-    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" /></td>
+    <td><img src="https://rust.saarland/images/ferris_becker.svg" alt="Rust" width="45" height="45" /></td>
     <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" /></td>
     <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /></td>
     <td><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></td>

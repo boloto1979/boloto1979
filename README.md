@@ -1,6 +1,17 @@
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr>
+    <td style="vertical-align: top; border: none;">
+      <h3>Hello there, this is Pedro Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+      <p style="text-align: justify;">
+        I am an experienced full stack developer with a strong focus on back-end and cybersecurity. While I also engage in front-end tasks, my primary emphasis is on developing secure and robust solutions. I am an active critic in the development field, engaged in the community through creating relevant articles and discussions. Furthermore, I am passionate about innovation and contributing to open projects that enrich the developer community.
+      </p>
+    </td>
+    <td style="vertical-align: top; padding-right: 20px; width: 200px; border: none;">
+      <img src="./octocat-1729622592077.png" alt="Octocat" width="550" height="200" />
+    </td>
+  </tr>
+</table>
 
-### Hello there, this is Pedro Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am an experienced full stack developer with a strong focus on back-end and cybersecurity. While I also engage in front-end tasks, my primary emphasis is on developing secure and robust solutions. I am an active critic in the development field, engaged in the community through creating relevant articles and discussions. Furthermore, I am passionate about innovation and contributing to open projects that enrich the developer community.
 
 ### 🔎 Around the internet...
 - [Managing Multiple Clients: The Myth of the Separate Database](https://www.linkedin.com/pulse/gerenciando-m%2525C3%2525BAltiplos-clientes-o-mito-da-base-de-dados-pedro-lima-jbnof/?trackingId=zOFBpf9%2FTuuCPPpyxCniCg%3D%3D)

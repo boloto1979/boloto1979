@@ -27,8 +27,8 @@
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" width="45" height="45" alt="Git" /></td>
   </tr>
 </table>
-<img src="./octocat-1729622592077.png" alt="Octocat" width="220" height="200" />
 <!--
+<img src="./octocat-1729622592077.png" alt="Octocat" width="220" height="200" />
 [![Pedro Lima profile views](https://u8views.com/api/v1/github/profiles/34582475/views/day-week-month-total-count.svg)](https://u8views.com/github/boloto1979)</br></br>
 <a href="https://tryhackme.com/p/pedro.lima1979">
   <img src="https://tryhackme-badges.s3.amazonaws.com/pedro.lima1979.png" alt="TryHackMe">

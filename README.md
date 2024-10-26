@@ -17,8 +17,10 @@
     <td><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bash-Dark.svg" alt="Bash" width="45" height="45" /></td>
     <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Linux-Dark.svg" width="45" height="45" alt="Linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /></td>
     <td><img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /></td>
     <td><img src="https://www.logigroup.com/images/modules/vue.gif" width="45" height="45" alt="Vue" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></td>
     <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /></td>
     <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" /></td>
     <td><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></td>
